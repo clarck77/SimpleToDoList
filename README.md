@@ -16,17 +16,19 @@ Aplikasi web Daftar Tugas (To-Do List) sederhana yang dibuat dengan HTML, CSS, d
 ## 📥 Instalasi
 1. Clone repository:
    ```bash
-   git clone 
+   git clone https://github.com/clarck77/SimpleToDoList.git
    ```
 2. Masuk ke direktori proyek:
    ```bash
-   cd simple-todo-list
+   cd SimpleToDoList
    ```
 3. Buka file `index.html` di browser favorit Anda. 🌐
 
 ## 📂 Struktur Proyek
 ```
-simple-todo-list/
+/SimpeToDoList
+├── ico
+├── ├──📄 pict1.png
 ├── 📄 index.html
 ├── 🎨 style.css
 └── ⚙️ script.js

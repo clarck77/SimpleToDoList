@@ -6,7 +6,6 @@ Aplikasi web Daftar Tugas (To-Do List) sederhana yang dibuat dengan HTML, CSS, d
 - ➕ Menambahkan tugas baru
 - ✅ Menandai tugas sebagai selesai
 - 🗑️ Menghapus tugas
-- 📱 Antarmuka responsif dan ramah pengguna
 
 ## 🛠️ Teknologi yang Digunakan
 - **📄 HTML**: Struktur aplikasi

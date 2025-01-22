@@ -39,9 +39,6 @@ Aplikasi web Daftar Tugas (To-Do List) sederhana yang dibuat dengan HTML, CSS, d
 3. Klik pada tugas untuk menandainya sebagai selesai ✅.
 4. Klik tombol **Hapus** 🗑️ di sebelah tugas untuk menghapusnya.
 
-## 🤝 Kontribusi
-Kontribusi sangat diterima! 🎉 Silakan fork repository ini dan ajukan pull request. 🙌
-
 ## 📜 Lisensi
 Proyek ini tidak dilisensikan. 📄
 

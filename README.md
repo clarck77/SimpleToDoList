@@ -21,7 +21,11 @@ Aplikasi web Daftar Tugas (To-Do List) sederhana yang dibuat dengan HTML, CSS, d
    ```bash
    cd SimpleToDoList
    ```
-3. Buka file `index.html` di browser favorit Anda. 🌐
+3. Masuk ke kode editor / IDE :
+   ```bash
+   code. 
+   ```
+4. Buka file `index.html` di browser favorit Anda. 🌐
 
 ## 📂 Struktur Proyek
 ```

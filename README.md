@@ -26,6 +26,11 @@ Aplikasi web Daftar Tugas (To-Do List) sederhana yang dibuat dengan HTML, CSS, d
    code. 
    ```
 4. Buka file `index.html` di browser favorit Anda. 🌐
+## 🚀 Cara Penggunaan
+1. Buka file `index.html` di browser. 🌍
+2. Ketik tugas di kolom input dan klik tombol **Tambah** ➕.
+3. Klik pada tugas untuk menandainya sebagai selesai ✅.
+4. Klik tombol **Hapus** 🗑️ di sebelah tugas untuk menghapusnya.
 
 ## 📂 Struktur Proyek
 ```
@@ -37,14 +42,7 @@ Aplikasi web Daftar Tugas (To-Do List) sederhana yang dibuat dengan HTML, CSS, d
 └── ⚙️ script.js
 ```
 
-## 🚀 Cara Penggunaan
-1. Buka file `index.html` di browser. 🌍
-2. Ketik tugas di kolom input dan klik tombol **Tambah** ➕.
-3. Klik pada tugas untuk menandainya sebagai selesai ✅.
-4. Klik tombol **Hapus** 🗑️ di sebelah tugas untuk menghapusnya.
-
 ## 📜 Lisensi
 Proyek ini tidak dilisensikan. 📄
-
 
 > Amrullah Azzaky

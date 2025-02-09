@@ -39,7 +39,8 @@ Aplikasi web Daftar Tugas (To-Do List) sederhana yang dibuat dengan HTML, CSS, d
 ├── ├──📄 pict1.png
 ├── 📄 index.html
 ├── 🎨 style.css
-└── ⚙️ script.js
+├── ⚙️ script.js
+└── README.md
 ```
 
 ## 📜 Lisensi
